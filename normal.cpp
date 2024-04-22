@@ -12,3 +12,5 @@ cout << a << endl;
     func(); 
 return 0; 
 }
+
+// test
